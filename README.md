@@ -48,7 +48,7 @@
       <h3>👨‍💻 System Bio</h3>
       <ul>
         <li><b>Identity:</b> Amirhossein Mahmoudian (<code>ahmprgr</code>)</li>
-        <li><b>Location:</b> Iran 🇮🇷</li>
+        <li><b>Location:</b> Islamic Republic of Iran 🇮🇷</li>
         <li><b>Core Focus:</b> High-Performance Backend Systems & Low-Level Mechanics</li>
         <li><b>Specialization:</b> Node.js ecosystem, relational/non-relational architecture, Linux system administration</li>
         <li><b>Academic Quest:</b> AI Olympiad Aspirant & Competitive Programmer</li>
